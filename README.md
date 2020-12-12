@@ -9,5 +9,5 @@ O controle das terfas desse projeto será feito no github.
 
 :package: Nova funcionalidade
 :up: Atualização
-:beatle: Correção de bug
+:mask: Correção de bug
 :checkered_flag: Release
